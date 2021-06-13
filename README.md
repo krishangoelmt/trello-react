@@ -1,5 +1,5 @@
 ##### Step to intall this app
-1. Clone this app from Github
+1. Clone this app from Github git@github.com:krishangoel21/trello-react.git
 1.  Install Yarn
 1. Open your termial and hint command  "**Yarn start**"
 
